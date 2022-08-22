@@ -1,0 +1,11 @@
+button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+@media (min-width: 768px) {
+  .lg-hide {
+    display: none;
+  }
+}
